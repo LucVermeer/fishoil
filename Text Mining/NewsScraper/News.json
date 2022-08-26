@@ -1,0 +1,15 @@
+{
+  "Google_news_Peru": {
+    "rss": "https://news.google.com/rss/search?q=Anchovy+Peru&hl=en-US&gl=US&ceid=US:en",
+    "link": "https://news.google.com"
+  },
+  "Google_news_Chile": {
+    "rss": "https://news.google.com/rss/search?q=Anchovy+Chile%20oil&hl=en-US&gl=US&ceid=US:en",
+    "link": "https://news.google.com"
+  },
+  "Google_news_Norway": {
+    "rss": "https://news.google.com/rss/search?q=Anchovy+Norway%20oil&hl=en-US&gl=US&ceid=US:en",
+    "link": "https://news.google.com"
+  }
+}
+
